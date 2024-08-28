@@ -1,6 +1,9 @@
-11. Exemples d'applications ou de scénarios où les bases de données NoSQL sont préférées
+Exemples d'applications ou de scénarios où les bases de données NoSQL sont préférées
 
 Stockage de gros volumes de données non structurées ou semi-structurées:
 Données de capteurs IoT, réseaux sociaux, publications web, etc.(MongoDB, Cassandra)
 Applications à grande échelle : Facebook, Twitter, Amazon 
 où les volumes de données et le besoin de performances élevées sont critiques.
+
+Big Data et analyses en temps réel : Traitement de grandes quantités de données pour obtenir des informations en temps réel.
+Applications mobiles et web : Stockage flexible des données utilisateur et contenu dynamique
